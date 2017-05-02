@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Epson_Android'" />
-    <option name="defaultScopeName" value="Project 'Epson_Android'" />
-    <option name="SEARCH_SCOPE" value="Project 'Epson_Android'" />
+    <option name="customScope" value="ZeissAR" />
+    <option name="defaultScopeName" value="ZeissAR" />
+    <option name="SEARCH_SCOPE" value="ZeissAR" />
   </component>
 </application>
