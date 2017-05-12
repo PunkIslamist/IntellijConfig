@@ -433,11 +433,6 @@
         <option name="BACKGROUND" value="5e5339" />
       </value>
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
-      </value>
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="bc3f3c" />
@@ -502,7 +497,7 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="fbf1c7" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -557,7 +552,7 @@
     </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="fbf1c7" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -569,6 +564,12 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e6e1dc" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
