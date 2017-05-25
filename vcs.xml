@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/Kotlin/kotlin-koans" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ericmaxwell2003/ticTacToe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Coderino\Kotlin\Tutorials" />
+    <option name="cloneParentDir" value="D:\Coderino\Android" />
   </component>
 </application>
