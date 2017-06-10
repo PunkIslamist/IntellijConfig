@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ZeissAR" />
-    <option name="defaultScopeName" value="ZeissAR" />
-    <option name="SEARCH_SCOPE" value="ZeissAR" />
+    <option name="customScope" value="Project 'WorkTime'" />
+    <option name="defaultScopeName" value="Project 'WorkTime'" />
+    <option name="SEARCH_SCOPE" value="Project 'WorkTime'" />
   </component>
 </application>
